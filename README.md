@@ -29,5 +29,4 @@ Antes de começar, verifique se você possui os seguintes pré-requisitos:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
-   cd nome_do_repositorio
+   git clone https://github.com/briciotimot/Reconhecimento-de-texo-com-I.A.-Generativa/
